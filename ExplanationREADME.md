@@ -1,1 +1,3 @@
 # ReadMe-Generator
+Link to video demo: https://drive.google.com/file/d/1QpOtDx6qXgX7-OW3MW6BBDNRxz5Qdbyq/view
+Starting the application is a simple process. Begin by directing yourself to the file you want the README generated in and type npm init(this will add a package.json) in the command prompt. After that is completed, go back to the command prompt and type npm i inquirer, this will install Inquirer to your project and is key to have during this project. Once that is done you can now type node index.js and answer the questions that is asked. If done right, there should be a README.md file that was created with your answers from the questions asked.

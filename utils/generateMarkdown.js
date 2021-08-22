@@ -13,8 +13,6 @@ function generateMarkdown(data) {
   - [Questions](#questions)
   ## Installation
   💾 ${data.installation}
-  ## Usage
-  💻 ${data.usage}
   ## License
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
   <br />
@@ -24,8 +22,6 @@ function generateMarkdown(data) {
   ## Tests
   ✏️ ${data.tests}
   ## Questions
-  ✋ ${data.questions}<br />
-  <br />
   :octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
   <br />
   ✉️ Email me with any questions: ${data.email}<br /><br />
